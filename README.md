@@ -18,8 +18,13 @@
 | **Drawbacks**   | Inefficient data management             | Complex setup and requires DBMS software to maintain|
 
 ## 2. DBMS Advantages - Mind Map
+This MindMap illustrates a visual representation of the advantages of using a Database Management System and includes short points of each advantage.
+
+<img width="2008" height="820" alt="Advantages of Using a DBMS" src="https://github.com/user-attachments/assets/183536e7-e337-48d5-9f53-5e0f245512d6" />
 
 ## 3. Roles in a Database System
+
+
 
 ## 4. Types of Databases
 
