@@ -33,7 +33,20 @@ This MindMap illustrates a visual representation of the advantages of using a Da
 | **BI Developer**                 | Creates reports, dashboards, and data analytics for stakeholders to view and make decisions based on the insights.        |
 
 
-
 ## 4. Types of Databases
+### Relational vs Non-Relational:
+| **Type**            | **Description**                                             | **Examples**                         |
+|---------------------|-------------------------------------------------------------|--------------------------------------|
+| **Relational**      | Is structured, tabular, and SQL-based.                      | MySQL, Oracle, PostgreSQL            |
+| **Non-Relational**  | Document/Key-Value, flexible schema.                        | MongoDB, Cassandra                   |
+
+
+### Centralized vs Distributed vs Cloud:
+| **Type**       | **Description**                                                                                                                   | **Use Cases**                                                   |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| **Centralized**| Has a single location/server. Users access the database through one point.                                                        | Small businesses, departmental applications                     |
+| **Distributed**| Has many locations/servers using nodes that hold the same or different data according to geographical location (RAID concept).    | Global enterprise systems, real-time applications (Google Maps) |
+| **Cloud**      | Cloud storage is hosted on online hosting platforms like AWS and are managed as a DbaaS by the hosting platform.                  | Startups, backup databases, educational systems                 |
+
 
 ## 5. Cloud Storage and Databases
