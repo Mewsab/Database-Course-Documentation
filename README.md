@@ -23,6 +23,14 @@ This MindMap illustrates a visual representation of the advantages of using a Da
 <img width="2008" height="820" alt="Advantages of Using a DBMS" src="https://github.com/user-attachments/assets/183536e7-e337-48d5-9f53-5e0f245512d6" />
 
 ## 3. Roles in a Database System
+| Role                             | Description                                              |
+| -------------------------------- | -------------------------------------------------------- |
+| **System Analyst**               | Gathers requirements from users, communicates with stakeholders, and designs database workflows.                |
+| **Database Designer**            | Designs the structure of the database by creating a detailed database model schema.                   |
+| **Database Developer**           | Implements and maintains a database by writing SQL queries, adding logic and triggers for data retrieval and manipulation. |
+| **Database Administrator (DBA)** | Manages and monitors performance, access control, security, and maintenance of a database.          |
+| **Application Developer**        | Develops applications or a user-friendly interface that users use to interact with the database.     |
+| **BI Developer**                 | Creates reports, dashboards, and data analytics for stakeholders to view and make decisions based on the insights.        |
 
 
 
