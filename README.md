@@ -50,3 +50,21 @@ This MindMap illustrates a visual representation of the advantages of using a Da
 
 
 ## 5. Cloud Storage and Databases
+
+### Cloud storage is a model where data is stored on remote servers accessed via the internet instead of storing data locally on hard-drives or devices. Databases hosted in the cloud benefit from this by being highly scalable, available, and manageable.
+
+#### Advantages of Cloud-Based Databases
+##### . Scalability on demand
+
+##### . High availability and uptime
+
+##### . Managed backups and monitoring by cloud hosting platform
+
+##### . Access from anywhere
+
+#### Disadvantages / Challenges
+##### , Dependency on the internet
+
+##### . Data security concerns
+
+##### . Subscription and storage costs
